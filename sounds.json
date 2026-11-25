@@ -1,0 +1,1608 @@
+{
+"version": 1,
+"layers": [
+{
+"id": "planck",
+"pack": "a",
+"name": "Planck: the sound of the ancient universe",
+"about": "A tone made from the sound waves that rang through the young universe, measured in the cosmic microwave background by the Planck space telescope and raised by about fifty octaves.",
+"eras": [
+1,
+2,
+5
+],
+"tags": {
+"fear": 0,
+"create": 0,
+"confuse": 0.3,
+"still": 0.5
+},
+"role": "bed",
+"file": {
+"f": "planck.mp3",
+"dur": 10.03,
+"bytes": 140843,
+"ch": 2,
+"gain": -13.7
+},
+"credit": {
+"title": "Sounds of the Ancient Universe (PIA16881)",
+"by": "ESA/NASA/JPL-Caltech (published by NASA JPL as PIA16881)",
+"source": "https://commons.wikimedia.org/wiki/File:Sounds_of_the_Ancient_Universe_(PIA16881).wav",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 10 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "cdf",
+"pack": "a",
+"name": "Chandra Deep Field South",
+"about": "Thousands of distant, growing black holes and galaxies in the deepest X-ray image ever taken, turned into sound. The farther away, the further back in time.",
+"eras": [
+1,
+2,
+5,
+6,
+8
+],
+"tags": {
+"fear": 0,
+"create": 0,
+"confuse": 0.4,
+"still": 0.2
+},
+"role": "bed",
+"file": {
+"f": "cdf.mp3",
+"dur": 47.05,
+"bytes": 659060,
+"ch": 2,
+"gain": -5.2
+},
+"credit": {
+"title": "cdf.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/cdf.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 47 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "csc",
+"pack": "a",
+"name": "The Chandra Source Catalog",
+"about": "More than 400,000 X-ray sources across the whole sky, played as a great slow cloud of notes.",
+"eras": [
+1,
+2,
+3,
+6
+],
+"tags": {
+"fear": 0,
+"create": 0,
+"confuse": 0.6,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "csc.mp3",
+"dur": 120.03,
+"bytes": 1440749,
+"ch": 2,
+"gain": -10.2
+},
+"credit": {
+"title": "csc.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/csc.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 4 to 124 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "hudf",
+"pack": "a",
+"name": "Hubble Ultra Deep Field",
+"about": "A note for every galaxy in the Hubble Ultra Deep Field, played in the order its light set out: in under a minute you hear back nearly 13 billion years.",
+"eras": [
+5,
+6,
+7,
+8
+],
+"tags": {
+"fear": 0,
+"create": 0.5,
+"confuse": 0,
+"still": 0.2
+},
+"role": "bed",
+"file": {
+"f": "hudf.mp3",
+"dur": 57.05,
+"bytes": 799129,
+"ch": 2,
+"gain": -11.2
+},
+"credit": {
+"title": "13893",
+"by": "NASA, ESA; sonification: SYSTEM Sounds (M. Russo, A. Santaguida); NASA Scientific Visualization Studio",
+"source": "https://svs.gsfc.nasa.gov/13893",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 1 to 58 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "voyager",
+"pack": "a",
+"name": "Voyager 1 in interstellar space",
+"about": "The real vibrations of the thin gas between the stars, picked up by Voyager 1 beyond the edge of the Sun's bubble in 2012 and 2013. The rising pitch means the gas was getting denser.",
+"eras": [
+3,
+6,
+13
+],
+"tags": {
+"fear": 0.2,
+"create": 0,
+"confuse": 0,
+"still": 0.5
+},
+"role": "bed",
+"file": {
+"f": "voyager.mp3",
+"dur": 24.84,
+"bytes": 348203,
+"ch": 2,
+"gain": -1.0
+},
+"credit": {
+"title": "Voyager Captures Sounds of Interstellar Space.webm",
+"by": "NASA/JPL-Caltech/University of Iowa",
+"source": "https://commons.wikimedia.org/wiki/File:Voyager_Captures_Sounds_of_Interstellar_Space.webm",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 12.4 to 23.6 seconds and 33 to 46.6 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "juno_roar",
+"pack": "a",
+"name": "Juno: the roar of Jupiter's bow shock",
+"about": "Juno crossing the shock wave where the solar wind slams into Jupiter's magnetic field, recorded by its Waves instrument in 2016.",
+"eras": [
+3,
+9,
+11
+],
+"tags": {
+"fear": 0.6,
+"create": 0,
+"confuse": 0.5,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "juno_roar.mp3",
+"dur": 34.04,
+"bytes": 476934,
+"ch": 2,
+"gain": -4.6
+},
+"credit": {
+"title": "Juno Captures the 'Roar' of Jupiter.webm",
+"by": "NASA/JPL-Caltech/SwRI/University of Iowa",
+"source": "https://commons.wikimedia.org/wiki/File:Juno_Captures_the_%27Roar%27_of_Jupiter.webm",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 14 to 33 seconds and 52.5 to 67.5 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "cassini_rings",
+"pack": "a",
+"name": "Cassini crossing Saturn's rings",
+"about": "Dust grains pinging off Cassini as it crossed the plane of Saturn's rings, recorded by its radio and plasma wave instrument.",
+"eras": [
+3,
+11
+],
+"tags": {
+"fear": 0,
+"create": 0.3,
+"confuse": 0.4,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "cassini_rings.mp3",
+"dur": 78.03,
+"bytes": 1092797,
+"ch": 2,
+"gain": -6.5
+},
+"credit": {
+"title": "PIA21446 - The Sound of Science - Comparison of Cassini Ring Crossings, First Video.ogv",
+"by": "NASA/JPL-Caltech/University of Iowa",
+"source": "https://commons.wikimedia.org/wiki/File:PIA21446_-_The_Sound_of_Science_-_Comparison_of_Cassini_Ring_Crossings,_First_Video.ogv",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 78 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "cassini_jupiter",
+"pack": "a",
+"name": "Cassini near Jupiter: plasma waves",
+"about": "Langmuir waves in the solar wind near Jupiter, recorded by Cassini on New Year's Day 2001.",
+"eras": [
+3,
+4,
+6
+],
+"tags": {
+"fear": 0,
+"create": 0,
+"confuse": 0.3,
+"still": 0.4
+},
+"role": "bed",
+"file": {
+"f": "cassini_jupiter.mp3",
+"dur": 87.04,
+"bytes": 696572,
+"ch": 1,
+"gain": 1.9
+},
+"credit": {
+"title": "Cassini RPWS Jupiter 010104.ogg",
+"by": "NASA/JPL",
+"source": "https://commons.wikimedia.org/wiki/File:Cassini_RPWS_Jupiter_010104.ogg",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 87 seconds, loudness matched, encoded as MP3, in mono."
+}
+},
+{
+"id": "jup_lbursts",
+"pack": "a",
+"name": "Jupiter's long radio bursts",
+"about": "Jupiter's natural decametric radio storms, long bursts, received on Earth by NASA's Radio JOVE project. They sound like surf.",
+"eras": [
+3,
+8,
+11
+],
+"tags": {
+"fear": 0,
+"create": 0,
+"confuse": 0.5,
+"still": 0.2
+},
+"role": "bed",
+"file": {
+"f": "jup_lbursts.mp3",
+"dur": 43.55,
+"bytes": 348620,
+"ch": 1,
+"gain": -7.4
+},
+"credit": {
+"title": "Lbursts1.ogg",
+"by": "NASA Radio JOVE",
+"source": "https://commons.wikimedia.org/wiki/File:Lbursts1.ogg",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 43.5 seconds, loudness matched, encoded as MP3, in mono."
+}
+},
+{
+"id": "jup_sbursts",
+"pack": "a",
+"name": "Jupiter's short radio bursts",
+"about": "Jupiter's short radio bursts, a fierce crackle like popcorn, received on Earth by NASA's Radio JOVE project.",
+"eras": [
+3,
+4
+],
+"tags": {
+"fear": 0.2,
+"create": 0,
+"confuse": 0.8,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "jup_sbursts.mp3",
+"dur": 64.03,
+"bytes": 512460,
+"ch": 1,
+"gain": -5.6
+},
+"credit": {
+"title": "Sbursts1.ogg",
+"by": "NASA Radio JOVE",
+"source": "https://commons.wikimedia.org/wiki/File:Sbursts1.ogg",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 64 seconds, loudness matched, encoded as MP3, in mono."
+}
+},
+{
+"id": "saturn_radio",
+"pack": "a",
+"name": "Saturn's eerie radio emissions",
+"about": "Saturn's kilometric radio emissions from near its auroras, recorded by Cassini and sped up so we can hear them.",
+"eras": [
+4,
+8,
+11
+],
+"tags": {
+"fear": 0.4,
+"create": 0.3,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "saturn_radio.mp3",
+"dur": 67.53,
+"bytes": 945780,
+"ch": 2,
+"gain": -7.1
+},
+"credit": {
+"title": "Eerie Sounds of Saturn\u2019s Radio Emissions (PIA07966).wav",
+"by": "NASA/JPL/University of Iowa",
+"source": "https://commons.wikimedia.org/wiki/File:Eerie_Sounds_of_Saturn%E2%80%99s_Radio_Emissions_(PIA07966).wav",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 6 to 73.5 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "sun",
+"pack": "a",
+"name": "The vibrating Sun",
+"about": "Sound waves inside the Sun, measured on its surface for years by the SOHO spacecraft and sped up 42,000 times, so you hear a star ringing.",
+"eras": [
+4,
+11
+],
+"tags": {
+"fear": 0,
+"create": 0.6,
+"confuse": 0,
+"still": 0.3
+},
+"role": "bed",
+"file": {
+"f": "sun.mp3",
+"dur": 20.85,
+"bytes": 292249,
+"ch": 2,
+"gain": -8.0
+},
+"credit": {
+"title": "Sounds of the Sun (NASA Goddard, SVS 13011), the parts without speech",
+"by": "NASA/ESA SOHO; sonification: Stanford Experimental Physics Lab; NASA Goddard",
+"source": "https://svs.gsfc.nasa.gov/13011",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0.3 to 5.6 seconds and 131 to 146.5 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "pillars",
+"pack": "a",
+"name": "The Pillars of Creation",
+"about": "Towers of gas and dust where new stars are being born, in X-ray and visible light.",
+"eras": [
+7,
+11
+],
+"tags": {
+"fear": 0,
+"create": 0.9,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "pillars.mp3",
+"dur": 30.04,
+"bytes": 420980,
+"ch": 2,
+"gain": -6.6
+},
+"credit": {
+"title": "m16.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/m16.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 30 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "carina",
+"pack": "a",
+"name": "The Carina Nebula: cosmic cliffs",
+"about": "The edge of a giant star-forming cloud seen by the James Webb Space Telescope, rising like a cliff.",
+"eras": [
+7
+],
+"tags": {
+"fear": 0,
+"create": 0.8,
+"confuse": 0,
+"still": 0.2
+},
+"role": "bed",
+"file": {
+"f": "carina.mp3",
+"dur": 30.04,
+"bytes": 420980,
+"ch": 2,
+"gain": -8.2
+},
+"credit": {
+"title": "carina.html",
+"by": "NASA, ESA, CSA, STScI; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/carina.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 30 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "wd2",
+"pack": "a",
+"name": "Westerlund 2: a crowd of young stars",
+"about": "A cluster of young, hot, massive stars, played as a swelling chorus.",
+"eras": [
+7,
+8
+],
+"tags": {
+"fear": 0,
+"create": 0.7,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "wd2.mp3",
+"dur": 60.03,
+"bytes": 840820,
+"ch": 2,
+"gain": -8.2
+},
+"credit": {
+"title": "wd2.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/wd2.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 60 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "hubble_trove",
+"pack": "a",
+"name": "A galaxy cluster from Hubble",
+"about": "A rich cluster of galaxies imaged by Hubble, scanned from left to right: compact galaxies give clear tones, sprawling spirals sing longer notes.",
+"eras": [
+8,
+9
+],
+"tags": {
+"fear": 0,
+"create": 0.4,
+"confuse": 0,
+"still": 0.3
+},
+"role": "bed",
+"file": {
+"f": "hubble_trove.mp3",
+"dur": 31.03,
+"bytes": 434877,
+"ch": 2,
+"gain": -6.5
+},
+"credit": {
+"title": "13061",
+"by": "NASA, ESA; NASA Goddard Space Flight Center; sonification by Matt Russo and Andrew Santaguida",
+"source": "https://svs.gsfc.nasa.gov/13061",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 31 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "chorus",
+"pack": "a",
+"name": "Earth's chorus",
+"about": "Radio waves in Earth's Van Allen belts recorded by NASA's Van Allen Probes. They chirp like birds at dawn.",
+"eras": [
+8,
+12
+],
+"tags": {
+"fear": 0,
+"create": 0.5,
+"confuse": 0,
+"still": 0.2
+},
+"role": "bed",
+"file": {
+"f": "chorus.mp3",
+"dur": 29.91,
+"bytes": 239561,
+"ch": 1,
+"gain": -1.7
+},
+"credit": {
+"title": "Chorus Radio Waves within Earth's Atmosphere.mp3",
+"by": "NASA/University of Iowa (EMFISIS)",
+"source": "https://commons.wikimedia.org/wiki/File:Chorus_Radio_Waves_within_Earth%27s_Atmosphere.mp3",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 30 seconds, loudness matched, encoded as MP3, in mono."
+}
+},
+{
+"id": "perseus",
+"pack": "b",
+"name": "The Perseus black hole",
+"about": "Real pressure waves sent by the black hole at the heart of the Perseus galaxy cluster through its hot gas, raised 57 and 58 octaves so we can hear them.",
+"eras": [
+9
+],
+"tags": {
+"fear": 0.9,
+"create": 0,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "perseus.mp3",
+"dur": 31.03,
+"bytes": 434877,
+"ch": 2,
+"gain": -5.4
+},
+"credit": {
+"title": "perseus.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/perseus.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 31 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "m87",
+"pack": "b",
+"name": "M87: a black hole and its jet",
+"about": "The galaxy M87, whose black hole was the first ever imaged, with its jet, in X-ray and radio.",
+"eras": [
+9
+],
+"tags": {
+"fear": 0.6,
+"create": 0,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "m87.mp3",
+"dur": 31.03,
+"bytes": 434877,
+"ch": 2,
+"gain": -8.5
+},
+"credit": {
+"title": "m87.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/m87.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 31 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "sgra",
+"pack": "b",
+"name": "Sagittarius A star",
+"about": "The black hole at the centre of our own galaxy.",
+"eras": [
+9
+],
+"tags": {
+"fear": 0.7,
+"create": 0,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "sgra.mp3",
+"dur": 27.04,
+"bytes": 378923,
+"ch": 2,
+"gain": -8.5
+},
+"credit": {
+"title": "sgra.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/sgra.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 27 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "v404",
+"pack": "b",
+"name": "V404 Cygni: black hole echoes",
+"about": "Rings of X-ray light echoing off dust around a feeding black hole.",
+"eras": [
+9
+],
+"tags": {
+"fear": 0.8,
+"create": 0,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "v404.mp3",
+"dur": 22.05,
+"bytes": 309072,
+"ch": 2,
+"gain": -5.1
+},
+"credit": {
+"title": "v404cyg.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/v404cyg.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 22 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "cena",
+"pack": "b",
+"name": "Centaurus A",
+"about": "A huge galaxy with jets fired from its central black hole.",
+"eras": [
+9
+],
+"tags": {
+"fear": 0.6,
+"create": 0.2,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "cena.mp3",
+"dur": 30.04,
+"bytes": 420980,
+"ch": 2,
+"gain": -10.1
+},
+"credit": {
+"title": "cena.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/cena.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 30 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "ss433",
+"pack": "b",
+"name": "SS 433",
+"about": "A star system whose spinning jets carve a giant nebula.",
+"eras": [
+9,
+10
+],
+"tags": {
+"fear": 0.6,
+"create": 0,
+"confuse": 0.2,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "ss433.mp3",
+"dur": 24.03,
+"bytes": 336866,
+"ch": 2,
+"gain": -12.8
+},
+"credit": {
+"title": "ss433.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/ss433.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 2 to 26 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "gcentre",
+"pack": "b",
+"name": "The Galactic Centre",
+"about": "The crowded heart of the Milky Way, in X-ray, infrared and visible light.",
+"eras": [
+9,
+10
+],
+"tags": {
+"fear": 0.4,
+"create": 0.3,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "gcentre.mp3",
+"dur": 60.03,
+"bytes": 840820,
+"ch": 2,
+"gain": -8.8
+},
+"credit": {
+"title": "gcenter.html",
+"by": "NASA/CXC/SAO, NASA/JPL-Caltech/Spitzer, NASA/STScI; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/gcenter.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 60 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "bullet",
+"pack": "b",
+"name": "The Bullet Cluster",
+"about": "Two galaxy clusters that smashed through each other, separating hot gas from invisible dark matter.",
+"eras": [
+9
+],
+"tags": {
+"fear": 0.3,
+"create": 0,
+"confuse": 0.3,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "bullet.mp3",
+"dur": 30.04,
+"bytes": 420980,
+"ch": 2,
+"gain": -9.7
+},
+"credit": {
+"title": "bullet.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/bullet.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 30 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "bullet_dm",
+"pack": "b",
+"name": "The Bullet Cluster: dark matter alone",
+"about": "Only the dark matter of the Bullet Cluster, mapped by how it bends light.",
+"eras": [
+6,
+9
+],
+"tags": {
+"fear": 0.3,
+"create": 0,
+"confuse": 0,
+"still": 0.4
+},
+"role": "bed",
+"file": {
+"f": "bullet_dm.mp3",
+"dur": 20.04,
+"bytes": 280912,
+"ch": 2,
+"gain": -11.2
+},
+"credit": {
+"title": "bullet.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/bullet.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 4 to 24 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "mice",
+"pack": "b",
+"name": "The Mice: colliding galaxies",
+"about": "Two galaxies tearing each other into long tails as they merge.",
+"eras": [
+9
+],
+"tags": {
+"fear": 0.3,
+"create": 0.4,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "mice.mp3",
+"dur": 22.05,
+"bytes": 309072,
+"ch": 2,
+"gain": -10.0
+},
+"credit": {
+"title": "14515",
+"by": "NASA, H. Ford (JHU), G. Illingworth (UCSC/LO), M. Clampin (STScI), G. Hartig (STScI), the ACS Science Team, and ESA; sonification: SYSTEM Sounds (M. Russo, A. Santaguida); NASA Scientific Visualization Studio",
+"source": "https://svs.gsfc.nasa.gov/14515",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 8 to 30 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "ligo",
+"pack": "b",
+"name": "Two black holes colliding",
+"about": "The gravitational waves from two black holes merging, caught by LIGO on 14 September 2015, turned into sound: a rising chirp.",
+"eras": [
+9
+],
+"tags": {
+"fear": 0.4,
+"create": 0.3,
+"confuse": 0,
+"still": 0
+},
+"role": "event",
+"file": {
+"f": "ligo.mp3",
+"dur": 11.94,
+"bytes": 167540,
+"ch": 2,
+"gain": -7.0
+},
+"credit": {
+"title": "The Sound of Two Black Holes Colliding.webm",
+"by": "LIGO Lab Caltech/MIT",
+"source": "https://commons.wikimedia.org/wiki/File:The_Sound_of_Two_Black_Holes_Colliding.webm",
+"licence": "Creative Commons Attribution 3.0",
+"licenceUrl": "https://creativecommons.org/licenses/by/3.0/",
+"changes": "Cut to 0 to 11.9 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "casa",
+"pack": "b",
+"name": "Cassiopeia A",
+"about": "The glowing remains of a star that exploded about 340 years ago, as Earth saw it.",
+"eras": [
+10
+],
+"tags": {
+"fear": 0.4,
+"create": 0.7,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "casa.mp3",
+"dur": 15.05,
+"bytes": 211060,
+"ch": 2,
+"gain": -11.3
+},
+"credit": {
+"title": "casa.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/casa.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 15 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "casa_iron",
+"pack": "b",
+"name": "Cassiopeia A: the iron",
+"about": "Only the iron forged in the Cassiopeia A explosion.",
+"eras": [
+10
+],
+"tags": {
+"fear": 0,
+"create": 0.6,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "casa_iron.mp3",
+"dur": 24.03,
+"bytes": 336866,
+"ch": 2,
+"gain": -7.3
+},
+"credit": {
+"title": "casa.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/casa.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 4 to 28 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "crab",
+"pack": "b",
+"name": "The Crab Nebula",
+"about": "The cloud left by a supernova seen in the year 1054, powered by a pulsar spinning 30 times a second.",
+"eras": [
+10
+],
+"tags": {
+"fear": 0.3,
+"create": 0.5,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "crab.mp3",
+"dur": 30.04,
+"bytes": 420980,
+"ch": 2,
+"gain": -10.0
+},
+"credit": {
+"title": "crab.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/crab.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 30 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "tycho",
+"pack": "b",
+"name": "Tycho's supernova",
+"about": "The remains of the exploding star Tycho Brahe saw in 1572.",
+"eras": [
+10
+],
+"tags": {
+"fear": 0,
+"create": 0.6,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "tycho.mp3",
+"dur": 45.04,
+"bytes": 630900,
+"ch": 2,
+"gain": -10.2
+},
+"credit": {
+"title": "tycho.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/tycho.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 45 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "sn87a",
+"pack": "b",
+"name": "Supernova 1987A",
+"about": "The nearest supernova seen in modern times, its shock wave lighting up a ring.",
+"eras": [
+10
+],
+"tags": {
+"fear": 0,
+"create": 0.6,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "sn87a.mp3",
+"dur": 28.03,
+"bytes": 392820,
+"ch": 2,
+"gain": -4.9
+},
+"credit": {
+"title": "sn87a.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/sn87a.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 2 to 30 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "vela",
+"pack": "b",
+"name": "The Vela pulsar",
+"about": "A dead star spinning about 11 times a second, firing a jet of particles.",
+"eras": [
+10
+],
+"tags": {
+"fear": 0.2,
+"create": 0.4,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "vela.mp3",
+"dur": 31.03,
+"bytes": 434877,
+"ch": 2,
+"gain": -5.9
+},
+"credit": {
+"title": "vela.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/vela.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 31 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "etacar",
+"pack": "b",
+"name": "Eta Carinae",
+"about": "A huge unstable star that threw off a vast cloud in a great outburst in the 1840s.",
+"eras": [
+7,
+10
+],
+"tags": {
+"fear": 0.4,
+"create": 0.5,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "etacar.mp3",
+"dur": 40.05,
+"bytes": 561049,
+"ch": 2,
+"gain": -9.0
+},
+"credit": {
+"title": "etacar.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/etacar.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 40 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "ngc6543",
+"pack": "b",
+"name": "The Cat's Eye Nebula",
+"about": "A dying Sun-like star gently shedding its outer layers.",
+"eras": [
+10,
+13
+],
+"tags": {
+"fear": 0,
+"create": 0,
+"confuse": 0,
+"still": 0.6
+},
+"role": "bed",
+"file": {
+"f": "ngc6543.mp3",
+"dur": 30.04,
+"bytes": 420980,
+"ch": 2,
+"gain": -10.3
+},
+"credit": {
+"title": "ngc6543.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/ngc6543.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 30 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "v838",
+"pack": "b",
+"name": "V838 Monocerotis light echo",
+"about": "A flash from a star spreading through the surrounding dust, seen by Hubble.",
+"eras": [
+7,
+10
+],
+"tags": {
+"fear": 0,
+"create": 0.5,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "v838.mp3",
+"dur": 30.04,
+"bytes": 420980,
+"ch": 2,
+"gain": -12.3
+},
+"credit": {
+"title": "14353",
+"by": "NASA, ESA; sonification: SYSTEM Sounds (M. Russo, A. Santaguida); NASA Scientific Visualization Studio",
+"source": "https://svs.gsfc.nasa.gov/14353",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 16 seconds and 18 to 32 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "ch_jupiter",
+"pack": "b",
+"name": "Jupiter in X-rays",
+"about": "Jupiter's auroras, in X-ray and infrared light.",
+"eras": [
+11
+],
+"tags": {
+"fear": 0,
+"create": 0.4,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "ch_jupiter.mp3",
+"dur": 30.04,
+"bytes": 420980,
+"ch": 2,
+"gain": -7.2
+},
+"credit": {
+"title": "jupiter.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/jupiter.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 30 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "ch_saturn",
+"pack": "b",
+"name": "Saturn and its rings",
+"about": "Saturn and its rings, scanned into sound.",
+"eras": [
+11
+],
+"tags": {
+"fear": 0,
+"create": 0.4,
+"confuse": 0,
+"still": 0.3
+},
+"role": "bed",
+"file": {
+"f": "ch_saturn.mp3",
+"dur": 24.03,
+"bytes": 336866,
+"ch": 2,
+"gain": -5.9
+},
+"credit": {
+"title": "saturn.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/saturn.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 24 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "ch_uranus",
+"pack": "b",
+"name": "Uranus",
+"about": "Uranus in X-ray and visible light.",
+"eras": [
+11,
+13
+],
+"tags": {
+"fear": 0,
+"create": 0,
+"confuse": 0,
+"still": 0.4
+},
+"role": "bed",
+"file": {
+"f": "ch_uranus.mp3",
+"dur": 12.54,
+"bytes": 175952,
+"ch": 2,
+"gain": -8.9
+},
+"credit": {
+"title": "uranus.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/uranus.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 12.5 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "parker_venus",
+"pack": "b",
+"name": "Parker Solar Probe at Venus",
+"about": "A natural radio signal Parker Solar Probe picked up while skimming through the upper atmosphere of Venus.",
+"eras": [
+11
+],
+"tags": {
+"fear": 0,
+"create": 0.2,
+"confuse": 0.3,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "parker_venus.mp3",
+"dur": 46.03,
+"bytes": 644797,
+"ch": 2,
+"gain": -12.0
+},
+"credit": {
+"title": "13847",
+"by": "NASA/Johns Hopkins APL/Naval Research Lab; NASA Scientific Visualization Studio",
+"source": "https://svs.gsfc.nasa.gov/13847",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 46 seconds, loudness matched, encoded as MP3."
+}
+},
+{
+"id": "saturn_lightning",
+"pack": "b",
+"name": "Lightning on Saturn",
+"about": "Radio crackles from lightning in a giant Saturn storm in 2011, recorded by Cassini.",
+"eras": [
+11,
+12
+],
+"tags": {
+"fear": 0.5,
+"create": 0,
+"confuse": 0,
+"still": 0
+},
+"role": "event",
+"file": {
+"f": "saturn_lightning.mp3",
+"dur": 11.81,
+"bytes": 94710,
+"ch": 1,
+"gain": 4.9
+},
+"credit": {
+"title": "Lightning Strikes at Saturn (PIA14310).wav",
+"by": "NASA/JPL-Caltech/University of Iowa",
+"source": "https://commons.wikimedia.org/wiki/File:Lightning_Strikes_at_Saturn_(PIA14310).wav",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 11.8 seconds, loudness matched, encoded as MP3, in mono."
+}
+},
+{
+"id": "earthsong",
+"pack": "b",
+"name": "Earth's song",
+"about": "Very low frequency radio waves from lightning and from electrons in the Van Allen belts, recorded by NASA's twin Van Allen Probes.",
+"eras": [
+12
+],
+"tags": {
+"fear": 0,
+"create": 0.5,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "earthsong.mp3",
+"dur": 30.04,
+"bytes": 240610,
+"ch": 1,
+"gain": -4.6
+},
+"credit": {
+"title": "11073",
+"by": "NASA/Goddard (Van Allen Probes, EMFISIS)",
+"source": "https://svs.gsfc.nasa.gov/11073",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 30 seconds, loudness matched, encoded as MP3, in mono."
+}
+},
+{
+"id": "insight_wind",
+"pack": "b",
+"name": "Wind on Mars (InSight)",
+"about": "Martian wind shaking the InSight lander, picked up by its seismometer and air pressure sensor in 2018.",
+"eras": [
+12,
+13
+],
+"tags": {
+"fear": 0,
+"create": 0,
+"confuse": 0,
+"still": 0.6
+},
+"role": "bed",
+"file": {
+"f": "insight_wind.mp3",
+"dur": 89.55,
+"bytes": 895783,
+"ch": 1,
+"gain": -2.8
+},
+"credit": {
+"title": "Sounds of Mars- NASA\u2019s InSight Senses Martian Wind.webm",
+"by": "NASA/JPL-Caltech",
+"source": "https://commons.wikimedia.org/wiki/File:Sounds_of_Mars-_NASA%E2%80%99s_InSight_Senses_Martian_Wind.webm",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 10 to 99.5 seconds, loudness matched, encoded as MP3, in mono."
+}
+},
+{
+"id": "insight_quake",
+"pack": "b",
+"name": "A marsquake",
+"about": "The first quake ever detected on Mars, on 6 April 2019, sped up so we can hear it rumble.",
+"eras": [
+11,
+12
+],
+"tags": {
+"fear": 0.4,
+"create": 0,
+"confuse": 0,
+"still": 0
+},
+"role": "bed",
+"file": {
+"f": "insight_quake.mp3",
+"dur": 40.05,
+"bytes": 320617,
+"ch": 1,
+"gain": 5.4
+},
+"credit": {
+"title": "NASA-Mars-InSightLander-MarsQuake-Seismometer-AV-20190406.webm",
+"by": "NASA/JPL-Caltech (PIA23176)",
+"source": "https://commons.wikimedia.org/wiki/File:NASA-Mars-InSightLander-MarsQuake-Seismometer-AV-20190406.webm",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 40 seconds, loudness matched, encoded as MP3, in mono."
+}
+},
+{
+"id": "percy_wind",
+"pack": "b",
+"name": "Wind on Mars (Perseverance)",
+"about": "The first sound ever recorded on the surface of Mars: a gust of wind, 20 February 2021.",
+"eras": [
+12
+],
+"tags": {
+"fear": 0,
+"create": 0,
+"confuse": 0,
+"still": 0.5
+},
+"role": "bed",
+"file": {
+"f": "percy_wind.mp3",
+"dur": 12.04,
+"bytes": 96591,
+"ch": 1,
+"gain": 1.9
+},
+"credit": {
+"title": "NASA's Perseverance Rover Microphone Captures Sounds from Mars without rover noise.ogg",
+"by": "NASA/JPL-Caltech",
+"source": "https://commons.wikimedia.org/wiki/File:NASA%27s_Perseverance_Rover_Microphone_Captures_Sounds_from_Mars_without_rover_noise.ogg",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 4 to 16 seconds, loudness matched, encoded as MP3, in mono."
+}
+},
+{
+"id": "m31",
+"pack": "b",
+"name": "Andromeda",
+"about": "Our neighbour galaxy, which will merge with the Milky Way in a few billion years.",
+"eras": [
+13
+],
+"tags": {
+"fear": 0,
+"create": 0.3,
+"confuse": 0,
+"still": 0.4
+},
+"role": "bed",
+"file": {
+"f": "m31.mp3",
+"dur": 30.04,
+"bytes": 420980,
+"ch": 2,
+"gain": -10.3
+},
+"credit": {
+"title": "andromeda.html",
+"by": "NASA/CXC/SAO; sonification: NASA/CXC/SAO/K. Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)",
+"source": "https://chandra.si.edu/sound/andromeda.html",
+"licence": "Public domain (NASA material, no copyright asserted)",
+"licenceUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+"changes": "Cut to 0 to 30 seconds, loudness matched, encoded as MP3."
+}
+}
+],
+"bowls": [
+{
+"id": "crystal_a",
+"pack": "b",
+"name": "Crystal singing bowls",
+"kind": "crystal",
+"file": {
+"f": "crystal_a.mp3",
+"dur": 61.05,
+"bytes": 855083,
+"ch": 2,
+"gain": -12.3
+},
+"credit": {
+"title": "Serene Crystal Singing Bowls",
+"by": "RedwoodRunner",
+"source": "https://freesound.org/s/460416/",
+"licence": "Creative Commons Zero 1.0 (public domain)",
+"licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+"changes": "Cut, loudness matched, MP3."
+}
+},
+{
+"id": "crystal_b",
+"pack": "b",
+"name": "Quartz crystal singing bowl",
+"kind": "crystal",
+"file": {
+"f": "crystal_b.mp3",
+"dur": 70.03,
+"bytes": 560526,
+"ch": 1,
+"gain": -15.3
+},
+"credit": {
+"title": "Quartz crystal singing bowl.wav",
+"by": "juskiddink",
+"source": "https://freesound.org/s/129219/",
+"licence": "Creative Commons Attribution 3.0",
+"licenceUrl": "https://creativecommons.org/licenses/by/3.0/",
+"changes": "Cut, loudness matched, MP3."
+}
+},
+{
+"id": "tibetan_a",
+"pack": "b",
+"name": "Tibetan singing bowl",
+"kind": "tibetan",
+"file": {
+"f": "tibetan_a.mp3",
+"dur": 66.25,
+"bytes": 530224,
+"ch": 1,
+"gain": -5.2
+},
+"credit": {
+"title": "Tibetan singing bowl",
+"by": "enhuber",
+"source": "https://freesound.org/s/400819/",
+"licence": "Creative Commons Zero 1.0 (public domain)",
+"licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+"changes": "Cut, loudness matched, MP3."
+}
+},
+{
+"id": "tibetan_b",
+"pack": "b",
+"name": "Tibetan bowl, centre strike",
+"kind": "tibetan",
+"file": {
+"f": "tibetan_b.mp3",
+"dur": 19.44,
+"bytes": 272500,
+"ch": 2,
+"gain": 2.6
+},
+"credit": {
+"title": "Tibetan bowl_center hit.wav",
+"by": "dersinnsspace",
+"source": "https://freesound.org/s/421829/",
+"licence": "Creative Commons Zero 1.0 (public domain)",
+"licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+"changes": "Cut, loudness matched, MP3."
+}
+},
+{
+"id": "tibetan_c",
+"pack": "b",
+"name": "Tibetan singing bowl, one strike",
+"kind": "tibetan",
+"file": {
+"f": "tibetan_c.mp3",
+"dur": 56.14,
+"bytes": 449349,
+"ch": 1,
+"gain": 17.3
+},
+"credit": {
+"title": "Tibetan singing bowl one strike.",
+"by": "poiqwepoi",
+"source": "https://freesound.org/s/848027/",
+"licence": "Creative Commons Zero 1.0 (public domain)",
+"licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+"changes": "Cut, loudness matched, MP3."
+}
+}
+]
+}
